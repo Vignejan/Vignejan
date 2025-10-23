@@ -1,111 +1,116 @@
-hari-yogesh-ram-0905/README.md
-👨‍💼 HARI YOGESH RAM B — Data Analyst | Python | SQL | Power BI | Excel
-Welcome to my portfolio! I'm a data-driven professional with expertise in Data Analysis, ETL Development, Data Visualization, and Automation. I specialize in Python, SQL, Power BI, and Excel to transform raw datasets into actionable business insights. My experience spans across Retail, CRM, Automation, and Enterprise Data Management projects, consistently delivering measurable improvements in decision-making speed, accuracy, and operational efficiency.
+<!-- 🌟 GitHub Profile README for Vignejan S -->
 
-🚀 About Me
-🎯 Driven by a passion for turning data into compelling stories!
+<h1 align="center">👋 Hi, I'm Vignejan S</h1>
+<h3 align="center">💻 Java Full Stack Developer | Passionate about Building Scalable Web Applications</h3>
 
-I'm HARI YOGESH RAM B, a dedicated and results-oriented Data Analyst at RR IT Solutions based in Chennai, India. Starting as a Software Engineer Trainee at Cognizant, I built a strong foundation in software development, database management, and advanced analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Problem+Solver+%7C+Team+Player+%7C+Fast+Learner;Building+Scalable+and+User-Friendly+Apps" alt="Typing SVG" />
+</p>
 
-Over the years, I have executed end-to-end data projects involving ETL pipelines, interactive dashboards, SQL query optimization, and automation tools — enabling stakeholders to make data-backed decisions faster.
+<p align="center">
+  <a href="mailto:2510dinu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vignejan-s-372240345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vignejan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-🧑‍💼 Professional Experience
-🟩 Data Analyst — RR IT Solutions
-📍 Jan 2024 – Aug 2025 | Chennai, TN
+---
 
-Designed and developed interactive Excel dashboards analyzing 8,523+ sales records, implementing Power Query for cleaning, transformation, and category mapping with 100% accuracy.
-Built Pivot Tables & Charts (Clustered Column, Bar, Line, Area, Pie, Doughnut) with slicers, KPI cards, trendline forecasting, and variance analysis for real-time KPI tracking and decision-making.
-Developed a Streamlit-based CRM analytics web app with MySQL, enabling real-time SQL queries, segmentation, and KPI dashboards using JOIN, GROUP BY, CASE for large datasets.
-Automated Excel data cleaning, merging, and transformation with Python (Pandas, NumPy), including batch processing scripts and historical storage in MySQL.
-Created Matplotlib & Seaborn visualizations for inventory optimization, sales trend analysis, lead tracking, and churn insights, reducing manual reporting work by 50–60%.
-Integrated role-based access control, export features, and error handling in analytics tools, reducing IT dependency for reporting and cutting turnaround time by 60%.
-Built an end-to-end YouTube Data Analytics solution using YouTube Data API v3, Python, MySQL, and Streamlit, automating data extraction, warehousing, and visualization across 10+ KPIs, improving content strategy by 40% and reducing manual effort by 90%.
-🟦 Software Engineer Trainee — Cognizant Technology Solutions
-📍 Nov 2022 – Dec 2023 | Chennai, TN
+## 🧑‍💻 About Me  
+I’m **Vignejan S**, a passionate **Java Full Stack Developer** from Chennai, India, with **1 year of experience** in developing web applications using **Java, Spring Boot, React.js, and MySQL**.  
 
-Project: Enterprise Customer Profile Database
+I love creating efficient, maintainable, and scalable applications that solve real-world problems.  
+My development philosophy centers on **clean code**, **user-focused design**, and **continuous learning**.  
 
-Designed scalable Python ETL workflows to centralize customer profiling in MySQL.
-Automated data extraction, cleaning, and transformation using Pandas, NumPy, SQL.
-Built Power BI and Streamlit dashboards for KPI tracking, segmentation, and retention analysis.
-Implemented MySQL indexing, improving query performance and report generation speed by 60%.
-Delivered unified, accurate customer records across departments for consistent reporting.
-📂 Key Projects
-📺 YouTube Data Harvesting & Warehousing
-📍 Aug 2025 – Aug 2025 | Python, MySQL, Streamlit, API Integration
+### 🌟 Highlights:
+- 🎓 **B.Tech in Information Technology** – Mookambigai College of Engineering (7.6 CGPA)  
+- 💼 Currently working at **RR IT Solutions**, Chennai  
+- 🧠 Strong understanding of **OOPs, RESTful APIs, and SDLC**  
+- 🧩 Team player with hands-on experience in **Agile Development and Git version control**  
+- ⚙️ Exploring **Spring Security, Microservices, and Cloud Deployment**  
 
-Built an end-to-end YouTube Data Analytics solution using YouTube Data API v3 for automated extraction of channel, video, playlist, and comment data.
-Designed a relational schema in MySQL ensuring 100% data integrity with efficient SQL querying.
-Developed a Streamlit dashboard with multi-tab navigation (Home, Add Data, View Tables, Queries) to deliver insights across 10+ KPIs (views, likes, comments, duration, publishing trends).
-Integrated Seaborn & Matplotlib for advanced visualizations (Bar, Line, Scatter, Countplots) to analyze audience engagement and channel performance.
-Improved content strategy recommendations by 40%, reduced manual data collection by 90%, and enabled faster data-driven decision-making for marketers and creators.
-📊 Blinkit Grocery Sales Data Dashboard – Data Analysis & Visualization
-📍 Jan 2025 – Aug 2025 | Excel, Power Query, Pivot Tables
+---
 
-Designed & developed an interactive Excel dashboard analyzing 8,523 sales records.
-Implemented Power Query for cleaning, transformation, and category mapping (100% accuracy).
-Created Pivot Tables & Charts (Clustered Column, Bar, Line, Area, Pie, Doughnut) with slicers, KPI cards, and variance analysis.
-Enabled real-time KPI tracking for inventory optimization, promotions, and category strategy, reducing decision-making time by 40%.
-💻 Enterprise CRM SQL Query Interface
-📍 Jul 2024 – Dec 2024 | MySQL, Python, Streamlit
+## 🧰 Tech Stack  
 
-Developed a CRM analytics web app enabling real-time SQL queries and dynamic KPI dashboards.
-Optimized JOIN, GROUP BY, CASE queries for large dataset performance.
-Integrated Matplotlib & Seaborn for lead, churn, and sales trend visualizations.
-Added role-based access control, export features, and error handling for smooth operations.
-Reduced business dependency on IT for reporting by 60%.
-⚙ End-to-End Excel Data Cleaning and Visualization Automation
-📍 Jan 2024 – Jun 2024 | Python, MySQL
+**Frontend:**  
+➡️ React.js | HTML5 | CSS3 | JavaScript (ES6+)  
 
-Automated Excel data cleaning, merging, and transformation using Pandas & NumPy.
-Built batch processing scripts for large dataset handling and historical storage in MySQL.
-Created automated visual reports using Matplotlib & Seaborn for KPI tracking.
-Improved accuracy & consistency of reports while reducing manual work by 50%.
-📚 Education
-🎓 B.Tech – Information Technology, Panimalar Engineering College
-🎓 HSC & SSLC, Ananda Vidyalaya Matric HR SEC School
+**Backend:**  
+➡️ Java | Spring Boot | RESTful APIs  
 
-🛠️ Technical Skills
-📌 Programming:
-Python | SQL
-📌 Data Analysis & Manipulation:
-Pandas | NumPy | Power Query
-📌 Visualization:
-Power BI | Excel (Pivot Tables, Charts) | Matplotlib | Seaborn | Streamlit
-📌 Databases:
-MySQL | SQL Joins, Subqueries, CTEs, Indexing | MySQL Connector
-📌 Tools & IDEs:
-Jupyter | Google Colab | VS Code | MySQL Workbench | Tkinter
-📌 Version Control & Workflow:
-Git | Agile Methodologies
-🏆 Certifications
-✅ IIT-M Advanced Programming Professional & Master Data Science
-✅ Python Programming
-✅ Microsoft Power BI
-✅ Microsoft Excel – Besant Technologies
-📬 Let's Connect!
-LinkedIn
-Resume
-GitHub
-Email
-Phone
+**Database:**  
+➡️ MySQL  
 
-💬 Quotes I Live By
-“Transforming insights into impact through data.”
-“Great analysts don’t just deliver dashboards — they discover decisions.”
-“A true Data Analyst turns raw data into revelations — storytelling with evidence, not assumptions.”
+**Tools & Others:**  
+➡️ Eclipse | IntelliJ IDEA | VS Code | Postman | Git | Maven  
 
-<!--
-**Vignejan/Vignejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,idea,vscode,postman,maven" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects  
+
+### 🧾 Full Stack Life Insurance Policy Management System  
+> **Tech:** Java | Spring Boot | React.js | MySQL  
+Developed a web application to manage insurance policies, customers, and premium payments with CRUD operations, authentication, and role-based access control.
+
+🟢 **Key Features:**
+- RESTful API integration  
+- Role-based authentication  
+- MySQL database with optimized queries  
+- Responsive UI built with React  
+
+---
+
+### 🛒 E-Commerce Spare Parts Platform  
+> **Tech:** Java | Spring Boot | React.js | MySQL  
+Built a scalable full-stack platform for automotive spare parts with product browsing, cart, and secure order placement.
+
+🟢 **Key Features:**
+- Spring Boot REST API  
+- Product filtering and search  
+- Integrated MySQL for persistence  
+- React-based modern frontend  
+
+---
+
+### 🚗 Car Resale Management System  
+> **Tech:** Python | MySQL  
+Created a system to manage car resale listings, user registration, and pricing details with database integration.
+
+---
+
+## 🏅 Certifications  
+
+🎓 **Java Full Stack Development** – Besant Technologies  
+🎓 **Java Development Course** – SSRTIC  
+🎓 **Data Science Certification** – IBM  
+
+---
+
+## ⚡ GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vignejan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignejan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignejan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Let's Connect  
+
+<p align="center">
+  <a href="mailto:2510dinu@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vignejan-s-372240345/"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vignejan"><img src="https://img.shields.io/badge/GitHub%20Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *“Code with passion, build with purpose, and never stop learning.”*
